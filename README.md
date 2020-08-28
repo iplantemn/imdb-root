@@ -82,6 +82,6 @@ cd ..
 ```
 
 ## TODO
-1. PMD
-1. Write tests
+1. ~~PMD~~
+1. ~~Write tests~~
 1. Swagger
